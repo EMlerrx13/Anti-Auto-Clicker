@@ -1,0 +1,1 @@
+# Anti-Auto-Clicker
